@@ -1,0 +1,55 @@
+{
+  "blog": {
+    "title": "Blog",
+    "entries": [
+      {
+        "id": "post-001",
+        "pinned": true,
+        "date": "2026-03-05",
+        "title": "First post.",
+        "summary": "Let's see how this turns out",
+        "tags": ["general", "life", "FIRST!"],
+        "body": "Welcome to that werid part of the internet that gets to be my brain. Its like a kalidoscope of shiney objects. Enjoy!"
+      }
+    ]
+  },
+
+  "projects": {
+    "title": "Projects",
+    "entries": [
+      {
+        "id": "proj-001",
+        "title": "The_Orc",
+        "status": "in-progress",
+        "summary": "Play as a Orc and slay as many enemies and bathe in their blood as you fight your way to the to free your tribe from the clutches of a hell bent wizard.",
+        "tags": ["game", "lua"],
+        "link": "to come soon ....",
+        "date": "2026-01-01"
+      }
+    ]
+  },
+
+  "documentation": {
+    "title": "Documentation",
+    "entries": [
+      {
+        "id": "doc-001",
+        "title": "Lisp Tool Library",
+        "version": "0.1.0",
+        "summary": "What this documents.",
+        "tags": ["lua", "library"],
+        "link": "to come soon ....",
+        "date": "2026-03-01"
+      },
+      {
+        "id": "doc-002",
+        "title": "SweetSweet",
+        "version": "0.1.0",
+        "summary": "This is the main contents of my game in a reuse form. A future library? Framework? Wrapper? sometihng, but when someone askes you what you coded your game in you can say sweetsweetLove",
+        "tags": ["lua", "library", "game"],
+        "link": "to come soon ....",
+        "date": "2026-03-01"
+      }
+    ]
+  }
+}
