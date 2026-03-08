@@ -37,7 +37,7 @@
         "title": "Lisp Tool Library",
         "version": "0.1.0",
         "summary": "A comprehesive library of tools to use with LISP/Scheme like languages. It is especially usefule while doing the 2011, UC Berkeley Computer Science 61A videos lectures and materials.",
-        "tags": ["lua", "library"],
+        "tags": ["LISP", "TYCS",  "library"],
         "link": "to come soon ....",
         "date": "2026-03-01"
       },
@@ -45,7 +45,7 @@
         "id": "doc-002",
         "title": "SweetSweet",
         "version": "0.1.0",
-        "summary": "This is the main contents of my game in a reuse form. A future library? Framework? Wrapper? sometihng, but when someone askes you what you coded your game in you can say sweetsweetLove",
+        "summary": "This is the main contents of my game in a reusable form. A future library? Framework? Wrapper?",
         "tags": ["lua", "library", "game"],
         "link": "to come soon ....",
         "date": "2026-03-01"
